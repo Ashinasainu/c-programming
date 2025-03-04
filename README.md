@@ -1,1 +1,29 @@
-# Basics of c-programming
+# Basics of C Programming
+
+This repository contains fundamental C programming concepts and implementations of basic algorithms. It is intended for beginners to understand and practice core C programming concepts.
+
+## 📂 Repository Structure
+
+- **Odd or Even** - A program to check whether a given number is odd or even.
+- **Calculator** - A simple calculator program performing basic arithmetic operations.
+- **Palindrome String** - A program to check if a given string is a palindrome.
+- **Sorting of Array** - Implementation of an array sorting algorithm.
+
+## 🔧 Getting Started
+
+### Prerequisites
+- A C compiler such as GCC.
+- A text editor or an IDE like CodeBlocks, Visual Studio Code, or Dev-C++.
+
+### Compilation & Execution
+To compile any C file, use the following command in the terminal:
+```sh
+gcc filename.c -o output
+```
+Run the program using:
+```sh
+./output
+```
+
+## 📜 License
+This project is open-source. Feel free to use and modify it as needed.
