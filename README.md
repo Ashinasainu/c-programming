@@ -11,6 +11,7 @@ This repository contains fundamental C programming concepts and implementations 
 - **Binary to Decimel** - Implementation of Binary to Decimel algorithm.
 - **Matrix addition** - Implementation of Matrix addition algorithm.
 - **Factorial** - Implementation of Factorial algorithm.
+- **Large number** - Implementation of Large number algorithm.
 
 ## 🔧 Getting Started
 
