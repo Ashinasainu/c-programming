@@ -13,6 +13,7 @@ This repository contains fundamental C programming concepts and implementations 
 - **Factorial** - Implementation of Factorial algorithm.
 - **Large number** - Implementation of Large number algorithm.
 - **Left rotate an array** - Implementation of Left rotate an array algorithm.
+- **compound interest** - Implementation of compound interest algorithm.
 
 ## 🔧 Getting Started
 
