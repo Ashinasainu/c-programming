@@ -12,6 +12,7 @@ This repository contains fundamental C programming concepts and implementations 
 - **Matrix addition** - Implementation of Matrix addition algorithm.
 - **Factorial** - Implementation of Factorial algorithm.
 - **Large number** - Implementation of Large number algorithm.
+- **Left rotate an array** - Implementation of Left rotate an array algorithm.
 
 ## 🔧 Getting Started
 
