@@ -8,6 +8,7 @@ This repository contains fundamental C programming concepts and implementations 
 - **Calculator** - A simple calculator program performing basic arithmetic operations.
 - **Palindrome String** - A program to check if a given string is a palindrome.
 - **Sorting of Array** - Implementation of an array sorting algorithm.
+- **Binary to Decimel** - Implementation of Binary to Decimel algorithm.
 
 ## 🔧 Getting Started
 
