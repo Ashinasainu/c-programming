@@ -9,6 +9,8 @@ This repository contains fundamental C programming concepts and implementations 
 - **Palindrome String** - A program to check if a given string is a palindrome.
 - **Sorting of Array** - Implementation of an array sorting algorithm.
 - **Binary to Decimel** - Implementation of Binary to Decimel algorithm.
+- **Matrix addition** - Implementation of Matrix addition algorithm.
+- **Factorial** - Implementation of Factorial algorithm.
 
 ## 🔧 Getting Started
 
